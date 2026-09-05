@@ -13,9 +13,13 @@ To monitor sales KPIs, identify top-performing products and regions, and underst
 
 ## 🛠️ Tools Used
 
-* Power BI
+Power BI dashboard designed to monitor sales performance using KPIs, charts, filters, and business insights.
+
+* Power BI,
+* DAX,
 * Excel
-* DAX
+
+🔗 [View Project](./Projects/Sales-KPI-Dashboard)
 
 ## 📊 Key KPIs
 
