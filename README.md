@@ -42,7 +42,7 @@ Worked on data analytics concepts and practical projects involving data cleaning
 
 ## 🎓 Education
 
-**B.Com – General**
+**Bsc IT – Information Technology**
 Bharathidasan University
 
 ## 📜 Certifications
