@@ -55,7 +55,7 @@ Bharathidasan University
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** Add your LinkedIn profile link here
+* **LinkedIn:** https://www.linkedin.com/in/amrin-ismou-1bb017417 
 * **GitHub:** You're already here 😊
 
 ---
